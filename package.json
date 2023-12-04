@@ -23,10 +23,10 @@
   },
   "homepage": "https://github.com/hogarthww-labs/amplify-category-sqs#readme",
   "dependencies": {
-    "ejs": "^3.1.5",
-    "inquirer": "^7.3.3",
-    "mime-types": "^2.1.27",
-    "path": "^0.12.7",
-    "yaml-cfn": "^0.2.3"
+    "ejs": "3.1.*",
+    "inquirer": "9.2.*",
+    "mime-types": "2.1.*",
+    "path": "0.12.*",
+    "yaml-cfn": "0.3.*"
   }
 }
