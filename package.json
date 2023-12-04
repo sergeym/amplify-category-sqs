@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hogarthww-labs/amplify-category-sqs.git"
+    "url": "git+https://github.com/sergeym/amplify-category-sqs.git"
   },
   "keywords": [
     "amplify",
@@ -19,9 +19,9 @@
   "author": "Kristian Mandrup",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/hogarthww-labs/amplify-category-sqs/issues"
+    "url": "https://github.com/sergeym/amplify-category-sqs/issues"
   },
-  "homepage": "https://github.com/hogarthww-labs/amplify-category-sqs#readme",
+  "homepage": "https://github.com/sergeym/amplify-category-sqs#readme",
   "dependencies": {
     "ejs": "3.1.*",
     "inquirer": "9.2.*",
